@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mantiqiy masalalar</string>
+    <string name="title_activity_data">Mantiqiy masalalar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mamadjanova Ma\'muraxon</string>
+    <string name="gmail">+998 98 570 90 42</string>
+
+    <string name="dev_name">Boymatov Mexrojiddin</string>
+    <string name="dev_gmail">boymatovmexrojiddin@gmail.com</string>
+
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Sahifa</string>
+    <string name="menu_gallery">Mundarija</string>
+    <string name="menu_slideshow">Dastur haqida</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "Mantiqiy masalalar"
+include ':app'
